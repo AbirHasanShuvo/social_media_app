@@ -1,0 +1,1 @@
+const logoIcon = "assets/icons/social.png";
